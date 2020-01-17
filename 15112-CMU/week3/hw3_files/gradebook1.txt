@@ -1,0 +1,5 @@
+
+# ignore blank lines and lines starting with #'s
+wilma,91,93,94
+fred,80,85,90,97,100
+betty,88

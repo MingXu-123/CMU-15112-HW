@@ -1,0 +1,10 @@
+# [(speed, speed_deviation, num_beers_gen, intervall),point limit,  beer fill amount, picture]
+1,              0, 1,            0,1,         55,60,    1000,        10,              pic1.JPG
+1,              0, 2,            0,2,         45,60,    2000,        10,              pic2.JPG
+2,             -1, 1,            0,2,         40,50,    3000,        10,              pic3.JPG
+3,             -1, 2,            0,2,         30,40,    4000,        10,              pic4.JPG
+4,              0, 2,            0,2,         30,40,    5000,        10,              pic1.JPG
+5,              0, 2,            0,5,         20,30,    6000,        10,              pic2.JPG
+8,              0, 2,            0,5,         10,30,    7000,        10,              pic3.JPG
+# to make sure that you can not get into a state where you reach last level max points!
+10,             0, 2,            0,10,         5,20,  100000,         1,              Deckel.PNG
